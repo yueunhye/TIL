@@ -13,7 +13,8 @@
     </header>
     <li><a href=https://github.com/yueunhye/TIL>TIL link</a></li>
     <footer>
-
+	<p>Thank you for watching my Introduce Me</p>
+	<span>email: yulll035@google.com</span>
     </footer>
    </main>
  </body>
