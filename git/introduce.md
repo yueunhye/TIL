@@ -6,9 +6,9 @@
  </head>
  <body>
     <header>
-	<h1>Introducee</h1>
-	<h2>Hello</h2>
-	<h3>Name: yueunhye</3>
+	<h1>Introduce</h1>
+	<h2>Hello!:D</h2>
+	<h3>Name: yueunhye<br>From: Korea<br></3>
     </header>
     <li><a href=https://github.com/yueunhye/TIL>TIL link</a></li>
     <footer>
