@@ -269,7 +269,7 @@ CSS 선택자
     </body>
     ```
     ```
-    input:active {
+    input:focus {
       color: violet;
     }
     ```    
