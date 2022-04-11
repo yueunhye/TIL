@@ -1,5 +1,5 @@
 > 표기법
-  1. dach-case(kebab-case): 대시기호를 사용해 띄어쓰기를 대신함. 주로 html, css에서 사용
+  1. dash-case(kebab-case): 대시기호를 사용해 띄어쓰기를 대신함. 주로 html, css에서 사용
   2. snake_case: 언더바로 구분 주로 html, css에서 사용
   3. camelCase(낙타표기법): 주로 js에서 사용
   4. PascalCase: 가장 앞에있는단어도 대문자. 주로 js
